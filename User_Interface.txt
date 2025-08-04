@@ -1,0 +1,10 @@
+Login:::
+Username: Admin
+Password: Admin@123
+Username: User
+Password: User@123
+
+
+Discounts:::
+SAVE10
+FLAT50
